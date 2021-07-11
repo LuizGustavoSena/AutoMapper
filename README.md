@@ -1,5 +1,5 @@
 # AutoMapper
 
 ## Library
-  -AutoMapper
-  -AutoMapper.Extensions.Microsoft.DependencyInjection
+  - AutoMapper
+  - AutoMapper.Extensions.Microsoft.DependencyInjection
